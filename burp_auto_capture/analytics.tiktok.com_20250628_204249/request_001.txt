@@ -1,0 +1,17 @@
+POST /api/v2/pixel/act HTTP/2
+Host: analytics.tiktok.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1911
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"event_id":"","message_id":"messageId-1751154035180-9497640178166","is_onsite":false,"timestamp":"2025-06-28T23:40:35.180Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"01JYVZAGFV9RJJFQ9AS0ZDP49F_.tt.2"},"pixel":{"code":"CQPR8FJC77UD2I8MH3T0","runtime":"1","codes":"CQPR8FJC77UD2I8MH3T0"},"page":{"url":"https://vaidebet.bet.br/ptb/bet/main","referrer":"https://vaidebet.bet.br/ptb/authentication/signup","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.1"},"session_id":"ef73f675-5453-11f0-80f9-0200172458cc::uZuyPi-nhHWHNkodQZQ4","pageview_id":"ef73f675-5453-11f0-80f9-0200172458cc-o4ug9.6.1::106219f1-5479-11f0-aca3-0200172309e7","variation_id":"traffic_1,traffic_4::default","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0","index":13,"sessions":[{"csid":"1751151971285::v4HFhZsgRzkiwNsbw5Gb","page_csid":"1751151971285::Xurtk21wAx0Iyux30VXD","csct":2,"pixel_code":"CQPR8FJC77UD2I8MH3T0"}]},"_inspection":{"vids":"74080266,74092599,74125662"},"properties":{},"partner":"GoogleTagManagerClient","signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"},"raw_eb_email":{"label":"missing"},"raw_eb_phone":{"label":"missing"}},"action":"Click","auto_collected_properties":{"page_trigger":"Click","trigger_element":{"tag":"A","attributes":{"class":"hdr-login-btn register-btn","destination":"javascript:;"},"inner_text":"CADASTRO","xpath":"/HTML/body[1]/app-root[1]/app-out-component[1]/div[1]/app-header[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/app-login[1]/form[1]/div[1]/div[1]/div[3]/a[1]","num_child_buttons":0,"timestamp":"2025-06-28T23:40:35.171Z","position":{"x":823.61669921875,"y":13}}}}
