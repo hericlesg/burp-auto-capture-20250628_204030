@@ -1,0 +1,16 @@
+HTTP/2 400 Bad Request
+Content-Type: application/json
+Content-Length: 556
+Date: Sat, 28 Jun 2025 23:41:06 GMT
+Cloudfront-Viewer-Longitude: -49.25640
+X-App-Fe-Client-Version: 0
+X-Geoip-Country-Code: BR
+Cloudfront-Viewer-Postal-Code: 74000
+Cloudfront-Viewer-Latitude: -16.68020
+X-Cache: Error from cloudfront
+Via: 1.1 be269f241b5cfb9cadc0ea3610022758.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: dAu3mqaGjhCIT6YiXMH6NkDvsiub7bJtMdRlxMClVC6GpAacrCiM1A==
+
+{"success":false,"responseCodes":[{"responseCode":94,"responseKey":"PASSWORD_IS_EMPTY","responseMessage":""},{"responseCode":737,"responseKey":"PASSWORD_CONFIRMATION_FAILED","responseMessage":""},{"responseCode":651,"responseKey":"PASSWORD_REQUIRES_UPPER_CASE_CHAR","responseMessage":""},{"responseCode":650,"responseKey":"PASSWORD_REQUIRES_LOWER_CASE_CHAR","responseMessage":""},{"responseCode":652,"responseKey":"PASSWORD_REQUIRES_DIGIT","responseMessage":""},{"responseCode":653,"responseKey":"PASSWORD_LENGTH_LESS_THAN_REQUIRED","responseMessage":""}]}
