@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250628_204136", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/a.sportradarserving.com_20250628_204136/request_001.txt", 
+      "url": "https://a.sportradarserving.com:443/pixel?type=js&aid=1535&id=6164", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/a.sportradarserving.com_20250628_204136/response_001.txt", 
+      "timestamp": 1751154035670
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/a.sportradarserving.com_20250628_204136/request_002.txt", 
+      "url": "https://a.sportradarserving.com:443/pixel?type=js&aid=1535&id=6160", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/a.sportradarserving.com_20250628_204136/response_002.txt", 
+      "timestamp": 1751154036065
+    }
+  ], 
+  "host": "a.sportradarserving.com", 
+  "total_requests": 2
+}
