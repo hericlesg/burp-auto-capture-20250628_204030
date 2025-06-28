@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250628_204249", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.tiktok.com_20250628_204249/request_001.txt", 
+      "url": "https://analytics.tiktok.com:443/api/v2/pixel/act", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/analytics.tiktok.com_20250628_204249/response_001.txt", 
+      "timestamp": 1751154036000
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.tiktok.com_20250628_204249/request_002.txt", 
+      "url": "https://analytics.tiktok.com:443/api/v2/pixel", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/analytics.tiktok.com_20250628_204249/response_002.txt", 
+      "timestamp": 1751154036331
+    }
+  ], 
+  "host": "analytics.tiktok.com", 
+  "total_requests": 2
+}
