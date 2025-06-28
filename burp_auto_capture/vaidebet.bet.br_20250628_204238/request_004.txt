@@ -1,0 +1,13 @@
+GET /api/generic/register/wrapping-key-certificate HTTP/2
+Host: vaidebet.bet.br
+Cookie: NCC=PTB; lang=ptb; _gcl_au=1.1.1631690205.1751137992.270121417.1751152731.1751154060; fb_utm_source=undefined; _ga_PJ5V85MP8Z=GS2.1.s1751151966$o2$g1$t1751154055$j41$l0$h0; _ga=GA1.1.974725846.1751137992; _ga_833TYZP13Q=GS2.1.s1751151966$o2$g1$t1751153939$j8$l0$h0; __smartico_ls_use_t=1751153946740; _fbp=fb.2.1751137993150.351867505684328569; _tt_enable_cookie=1; _ttp=01JYVZAGFV9RJJFQ9AS0ZDP49F_.tt.2; ttcsid_CQPR8FJC77UD2I8MH3T0=1751151971285::v4HFhZsgRzkiwNsbw5Gb.2.1751154035423; ttcsid=1751151971285::Xurtk21wAx0Iyux30VXD.2.1751154035424; _hjSessionUser_3908100=eyJpZCI6ImJmNjYyODMwLTdlZjUtNTA2Yy04OTAxLWE2MjE3NzI5ODMxNyIsImNyZWF0ZWQiOjE3NTExMzc5OTMzMTEsImV4aXN0aW5nIjp0cnVlfQ==; _ga_9DV344ZVDG=GS2.1.s1751151966$o2$g1$t1751154036$j60$l0$h0; _sp_srt_id.28f7=ebef7c1c-43d4-418d-9a18-fcacbc5f8572.1751137994.2.1751153947.1751137994.deec6887-59c0-4576-baea-7b798d31a1a6.65271ff6-5e5b-41f8-a636-4aa81186fc4e...0; _hjSession_3908100=eyJpZCI6IjMzNzE2MzAxLTY5N2YtNDhlMi05ZGE4LTkwNmI0ZDdmZmZiNiIsImMiOjE3NTExNTE5NzA4MzUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; _sp_srt_ses.28f7=*; __smartico_ls_id=18ec28ad-83a3-4ec6-98a1-be2cf2fd886a; __smartico_ls_create_t=1751152706013; btag=null
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://vaidebet.bet.br/ptb/authentication/signup
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
