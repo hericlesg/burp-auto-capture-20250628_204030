@@ -1,0 +1,17 @@
+POST /api/v2/pixel HTTP/2
+Host: analytics.tiktok.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1427
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"event":"Pageview","event_id":"","message_id":"messageId-1751154035424-9678684458088-CQPR8FJC77UD2I8MH3T0","is_onsite":false,"timestamp":"2025-06-28T23:40:35.424Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"01JYVZAGFV9RJJFQ9AS0ZDP49F_.tt.2"},"pixel":{"code":"CQPR8FJC77UD2I8MH3T0","runtime":"1"},"page":{"url":"https://vaidebet.bet.br/ptb/authentication/signup","referrer":"https://vaidebet.bet.br/ptb/bet/main","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.1"},"session_id":"ef73f675-5453-11f0-80f9-0200172458cc::uZuyPi-nhHWHNkodQZQ4-CQPR8FJC77UD2I8MH3T0","pageview_id":"ef73f675-5453-11f0-80f9-0200172458cc-o4ug9.6.2::106219f1-5479-11f0-aca3-0200172309e7-CQPR8FJC77UD2I8MH3T0","variation_id":"traffic_1,traffic_4::default","csid":"1751151971285::v4HFhZsgRzkiwNsbw5Gb","page_csid":"1751151971285::Xurtk21wAx0Iyux30VXD","csct":2,"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"},"_inspection":{"tf":"hc","vids":"74080266,74092599,74125662"},"properties":{},"partner":"GoogleTagManagerClient","signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"},"raw_eb_email":{"label":"missing"},"raw_eb_phone":{"label":"missing"}}}
