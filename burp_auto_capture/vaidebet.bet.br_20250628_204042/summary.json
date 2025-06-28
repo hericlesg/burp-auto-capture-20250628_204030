@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250628_204042", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250628_204042/request_001.txt", 
+      "url": "https://vaidebet.bet.br:443/api/user/casinoapi/getClaimableBonuses", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250628_204042/response_001.txt", 
+      "timestamp": 1751154036284
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/vaidebet.bet.br_20250628_204042/request_002.txt", 
+      "url": "https://vaidebet.bet.br:443/api/user/promotions/listClaimablePromotionsActivation", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/vaidebet.bet.br_20250628_204042/response_002.txt", 
+      "timestamp": 1751154036284
+    }
+  ], 
+  "host": "vaidebet.bet.br", 
+  "total_requests": 2
+}
