@@ -1,0 +1,183 @@
+{
+  "capture_timestamp": "20250628_204140", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_001.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_001.txt", 
+      "timestamp": 1751154035777
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_002.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_002.txt", 
+      "timestamp": 1751154035781
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_003.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_003.txt", 
+      "timestamp": 1751154035782
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_004.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_004.txt", 
+      "timestamp": 1751154035785
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_005.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_005.txt", 
+      "timestamp": 1751154035786
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_006.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_006.txt", 
+      "timestamp": 1751154035801
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_007.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_007.txt", 
+      "timestamp": 1751154035804
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_008.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_008.txt", 
+      "timestamp": 1751154035807
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_009.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_009.txt", 
+      "timestamp": 1751154035809
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_010.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_010.txt", 
+      "timestamp": 1751154035813
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_011.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_011.txt", 
+      "timestamp": 1751154035813
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_012.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_012.txt", 
+      "timestamp": 1751154061422
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_013.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_013.txt", 
+      "timestamp": 1751154061425
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_014.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_014.txt", 
+      "timestamp": 1751154061427
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_015.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_015.txt", 
+      "timestamp": 1751154061447
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_016.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_016.txt", 
+      "timestamp": 1751154061447
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_017.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_017.txt", 
+      "timestamp": 1751154061452
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_018.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_018.txt", 
+      "timestamp": 1751154061452
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_019.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_019.txt", 
+      "timestamp": 1751154061455
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_020.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_020.txt", 
+      "timestamp": 1751154061455
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_021.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_021.txt", 
+      "timestamp": 1751154061465
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.facebook.com_20250628_204140/request_022.txt", 
+      "url": "https://www.facebook.com:443/tr/", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/www.facebook.com_20250628_204140/response_022.txt", 
+      "timestamp": 1751154061468
+    }
+  ], 
+  "host": "www.facebook.com", 
+  "total_requests": 22
+}
