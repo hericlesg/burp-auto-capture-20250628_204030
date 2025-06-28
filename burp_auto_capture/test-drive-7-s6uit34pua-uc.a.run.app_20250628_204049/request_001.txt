@@ -1,0 +1,18 @@
+POST /events/890f11a5a352f60e824804fe483521a17b97e1786e691944ba89e2ea828ea3d8 HTTP/2
+Host: test-drive-7-s6uit34pua-uc.a.run.app
+Cookie: cee=AvzgIM%2BI2an6lKTeXlnpR%2B2lPKuzXpvxhWsvwaSciBs%3D.%7B%22em%22%3A%221f2152778681b03ef37062309defa0e71ef8b37ec0bde610cc069d5026aa179b%22%2C%22ph%22%3A%222fa27d16fc6a5dfa3de58303641a3365935e1c173def0bc5d1cb8d6f5ca30123%22%2C%22fn%22%3A%2281e31e2555868ca14b764b57cb1f967eeea97b8bbd80f3933dd0893c23f84342%22%7D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain;charset=UTF-8
+Referer: https://vaidebet.bet.br/
+Content-Length: 386
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"event_name":"PageView","fb.dynamic_product_ads":{},"custom_data":{},"event_id":"ob3_plugin-set_186ea7549bc2b712e4bb159d444285d71e57297e71b809fddc8648f5dd68cad6","fb.pixel_id":"932982895435244","fb.advanced_matching":{},"website_context":{"location":"https://vaidebet.bet.br/ptb/authentication/signup","referrer":"","isInIFrame":false},"fb.fbp":"fb.2.1751137993150.351867505684328569"}
