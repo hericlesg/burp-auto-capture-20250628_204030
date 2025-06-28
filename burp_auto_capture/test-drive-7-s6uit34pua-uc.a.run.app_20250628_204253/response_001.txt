@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Vary: origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://vaidebet.bet.br
+Set-Cookie: cee=AvzgIM%2BI2an6lKTeXlnpR%2B2lPKuzXpvxhWsvwaSciBs%3D.%7B%22em%22%3A%221f2152778681b03ef37062309defa0e71ef8b37ec0bde610cc069d5026aa179b%22%2C%22ph%22%3A%222fa27d16fc6a5dfa3de58303641a3365935e1c173def0bc5d1cb8d6f5ca30123%22%2C%22fn%22%3A%2281e31e2555868ca14b764b57cb1f967eeea97b8bbd80f3933dd0893c23f84342%22%7D; Max-Age=7776000; Expires=Fri, 26 Sep 2025 23:40:34 GMT; Path=/events/890f11a5a352f60e824804fe483521a17b97e1786e691944ba89e2ea828ea3d8; Domain=test-drive-7-s6uit34pua-uc.a.run.app; Secure; HTTPOnly; SameSite=None
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Cloud-Trace-Context: c485ff0795b90ccc2def9126a84e3782
+Date: Sat, 28 Jun 2025 23:40:34 GMT
+Content-Type: text/html
+Server: Google Frontend
+Content-Length: 0
+Expires: Sat, 28 Jun 2025 23:40:34 GMT
+Cache-Control: private
+
