@@ -1,0 +1,17 @@
+POST /g/collect?v=2&tid=G-PJ5V85MP8Z&gtm=45je56p1v9197180452za200zb892878899&_p=1751153938079&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103308216~103308218~103351869~103351871~104684208~104684211~104718208~104784387~104784389~104784694&cid=974725846.1751137992&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=4&dl=https%3A%2F%2Fvaidebet.bet.br%2Fptb%2Fauthentication%2Fsignup&dr=https%3A%2F%2Fvaidebet.bet.br%2Fptb%2Fbet%2Fmain&sid=1751151966&sct=2&seg=1&dt=Vaidebet%3A%20Fa%C3%A7a%20seu%20login%20e%20comece%20a%20jogar%20-%20Vai%20de%20bet&_tu=Cg&en=page_view&_et=7649&tfd=153667 HTTP/2
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Length: 0
+Te: trailers
+
