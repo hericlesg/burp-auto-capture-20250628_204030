@@ -1,0 +1,20 @@
+HTTP/2 200 OK
+Server: nginx
+Content-Length: 0
+Access-Control-Allow-Headers: Authorization,*
+Access-Control-Allow-Methods: GET,POST,PUT,PATCH,DELETE,HEAD,OPTIONS,UPDATE
+Access-Control-Allow-Origin: *
+X-Tt-Logid: 202506282340355A79D40E0B4D33676266
+Server-Timing: inner; dur=152
+X-Tt-Trace-Host: 01ca3896366077ee276aecd2527ce3dadd99fd8a452782647a3a9c2b92e07da185f3fa1e8effbd76d437c7775f557b74cd4307ad008669d9e34061d8fdd1e8af270399807a66835da3f10b069fcc2e20200716deb90c3a2c59cb1959c1bd1790c0
+X-Tt-Trace-Id: 00-2506282340355A79D40E0B4D33676266-352ED058BB05EFDD-00
+Expires: Sat, 28 Jun 2025 23:40:35 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 28 Jun 2025 23:40:35 GMT
+X-Cache: TCP_MISS from a2-19-9-196.deploy.akamaitechnologies.com (AkamaiGHost/22.1.5-44804d4b63cd372cb18feb9fa4115002) (-)
+X-Tt-Trace-Tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=4, origin; dur=270
+X-Origin-Response-Time: 270,2.19.9.196
+X-Akamai-Request-Id: d3c7256
+
